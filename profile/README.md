@@ -5,7 +5,6 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/ecostacking)
 [![Contact Us](https://img.shields.io/badge/-Contact%20Us-green?style=flat)](mailto:info@ecostackinnovations.com)
 
----
 
 **Ecostack Innovations** is at the forefront of integrating environmental sustainability and biodiversity conservation into organizational practices. As an environmental consultancy firm, we strive for a nature-positive future through innovation, collaboration, and action.
 
